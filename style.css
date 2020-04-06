@@ -58,6 +58,13 @@ body {
   border-bottom: 2px solid #e37435;
 }
 
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+}
+
 @media (min-width: 640px) {
   .nav {
     display: flex;
